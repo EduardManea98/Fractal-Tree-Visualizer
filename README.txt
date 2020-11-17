@@ -1,6 +1,6 @@
 About: Fractal Tree Visualizer
 
-How to open:
+HOW TO OPEN:
 Option 1) Open: https://editor.p5js.org/EduardManea98/sketches/4uHasfz9g
 Option 2) Download the project and open it in browser.
 
